@@ -1,4 +1,4 @@
-# RAMSES Group 2_2 UPISAS SETUP
+# RAMSES UPISAS SETUP
 
 - RAMSES INTERFACE should run on port 50000.
 - In stop_existing_adaptation() function the port number 32836 should be set to the port number of "ramses-dashboard".
